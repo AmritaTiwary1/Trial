@@ -29,5 +29,7 @@ buttons.forEach(function(button){
                 body.style.backgroundColor ='white';
                 break;
          }
-        })
-}
+        }
+                            }
+               )
+
